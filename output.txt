@@ -1,15 +1,1114 @@
- A Simple PDF File 
- This is a small demonstration .pdf file - 
- just for use in the Virtual Mechanics tutorials. More text. And more 
- text. And more text. And more text. And more text. 
- And more text. And more text. And more text. And more text. And more 
- text. And more text. Boring, zzzzz. And more text. And more text. And 
- more text. And more text. And more text. And more text. And more text. 
- And more text. And more text. 
- And more text. And more text. And more text. And more text. And more 
- text. And more text. And more text. Even more. Continued on page 2 ... Simple PDF File 2 
- ...continued from page 1. Yet more text. And more text. And more text. 
- And more text. And more text. And more text. And more text. And more 
- text. Oh, how boring typing this stuff. But not as boring as watching 
- paint dry. And more text. And more text. And more text. And more text. 
- Boring.  More, a little more text. The end, and just as well. 
+Editorial
+Language, cognition and the cerebellum:
+Grappling with an enigma
+Alan Beatona,*and Peter Marie ¨nb
+aDepartment of Psychology, University of Swansea, Wales, UK
+bDepartment of Neurology, ZNA Middelheim Hospital, Antwerp, Belgium
+The part played by the cerebellum in higher cognitive func-
+tions has been and remains something of an enigma.
+Schmahmann and Caplan (2006) maintain that ‘‘The tradi-
+tional teaching that the cerebellum is purely a motor control
+device no longer appears valid, if, indeed, it ever was. There is
+increasing recognition that the cerebellum contributes to
+cognitive processing and emotional control in addition to its
+role in motor coordination’’ (p. 290). On the contrary,
+Glickstein (2006) in the same issue wrote: ‘‘Evidence for
+a critical role for the cerebellum in cognition or emotion
+remains unconvincing’’ (p. 289). Despite the fact that there is
+a scientiﬁc journal ( The Cerebellum ) devoted solely to research
+on the cerebellum, it appeared to us from discussion with
+colleagues and others that recent developments in cerebellar
+research are not widely known outside the ﬁeld of its prac-
+tioners. We felt it was appropriate (70 years on from the well-
+known paper by Holmes, 1939 ) to bring such research to the
+attention of a wider audience involved in cognitive neurosci-
+ence. We are grateful to the editors of Cortex for agreeing to our
+suggestion to compile a special issue of the journal and to our
+contributors for their papers.
+In a letter dated 18th January, 1661 addressed to Robert Boyle,
+Dr. Lower, assistant to the celebrated Thomas Willis, refers to
+the latter’s ‘‘opinion of the use of the cerebellum for involuntary
+motion’’, a view subsequently published in his famous text of
+1664 (translated into English in 1681). Research on animals by
+Luigi Rolando (1809) and Pierre Flourens (1824) in the early part
+of the nineteenth century subsequently conﬁrmed that lesions
+of the cerebellum produce severe disturbances of co-ordinated
+movement. More fanciful ideas, however, were propagated by
+the phrenologists. Franz Joseph Gall (see Gall et al., 1838,translated by Combe ) was of the view that the cerebellum was
+the ‘‘organ of the instinct of reproduction’’. He drew a connec-
+tion between the presumed size of the cerebellum and the
+apparent propensity for enjoyment of sex, writing:
+‘‘The lady of whom I have spoken above ( .) has a large and
+beautiful head like a man, and she possesses distinguished
+talents; but the nape of her neck has very little breadth
+under the ears, which indicates a small development of the
+cerebellum. I have hitherto found this conformation in all
+persons in whom the instinct of reproduction was natu-
+rally feeble’’ (p. 24).
+Gall believed that there was a connection between the tes-
+ticles and the cerebellum. As a direct test of Gall’s notion, the
+ﬁnding of Franc ¸ois Leuret (1839) , referred to by Pierre Flourens
+(1846 , translated by de Lucena Meigs), that on average the
+cerebellum was larger in 21 geldings than in 10 stallions and 12
+mares should have put paid once and for all to the idea that the
+cerebellum had anything to do with the presence or size of
+testicles but, being written in French, appears not to have been
+read or simply ignored by later English speaking theorists. In
+any case, it was apparently insufﬁcient to dispose of the idea
+that the cerebellum was the seat of the amative instinct, an
+idea which seems to have exercised a tenacious hold on the
+Victorian imagination. As late as 1892, a follower of Gall, one
+John William Taylor, wrote (p. 9):
+‘‘(1) I am led to conclude, apart from co-ordination,
+according to our leading cerebral physiologists, the main
+function of the cerebellum is the amative instinct. (2) The
+*Corresponding author . Department of Psychology, University of Swansea, Wales, UK.
+E-mail address: a.a.beaton@swansea.ac.uk (A. Beaton).
+available at www.sciencedirect.com
+journal homepage: www.elsevier.com/locate/cortexcortex 46 (2010) 811–820
+0010-9452/$ – see front matter ª2010 Elsevier Srl. All rights reserved.
+doi:10.1016/j.cortex.2010.02.005energy of amativeness bears a constant relation to the
+development of the cerebellum. (3) The loss of both testicles
+by castration or otherwise causes a great diminution in the
+bulk of the cerebellum; and (4) that excessive development
+of the cerebellum predisposes to erotic mania.’’
+Taylor (p. 9) quotes ‘‘David Ferrier, in Functions of the Brain ,
+page 432’’ as follows: ‘‘As morbid irritation of the sexual
+organs may excite a morbid sexual appetite, so, conversely,
+the sexual appetite may be morbidly excited by pathological
+irritation of the cerebral paths, and the cerebral centres of the
+sensations connected with the exercise of generative func-
+tions. To the former belong the satyriasis or nymphomania
+occasionally observed in connection with the middle lobe of
+the cerebellum; to the latter the various morbid exhibitions of
+the sexual appetite in insanity, where the centres are func-
+tionally or organically diseased’’.
+Other than its supposed role in regard to the sexual
+instinct, the idea that the cerebellum is involved in some way
+in control of movement has a long history. The Greek anato-
+mist Erasistratos (310–250 BC) was of the opinion that there
+was a relation between the size of the cerebellum and the
+running speed of animals (see Tesak and Code, 2008 , p. 7/8).
+For a long time exploration of cerebellar function was
+dominated by experimental work with animals. Luciani’s (1891)
+descriptions of the effect of lesions to the cerebellum in dogs
+and primates provided the basis for much that was to follow.
+However, in a discussion of six contributions to a Symposium on
+the Cerebellum published in volume 50 of Brain ,F r a n c i s Walshe
+(1927) gave as his opinion that ‘‘the problem of cerebellar
+functions remains where Luciani left it nearly half a century
+ago’’ (p. 378) (for a modern evaluation of Luciani’s work see
+Manni and Petrosini, 1997 ). Of the six papers of the symposium,
+only one, by Theodore Weisenburg (later to publish a celebrated
+work on aphasia), was based on clinical investigations in
+humans rather than experimental work with animals.
+Although not the only neurologist or physician to be inter-
+ested in the cerebellum, it was the work of Holmes (1917, 1922)
+more than anyone that encouraged clinical investigation of the
+symptoms of cerebellar disease. One of the chief clinical signs
+of acute cerebellar damage is what Holmes (1917) described in
+his classic paper on the effects of gunshot wounds in 21 victims
+of the ﬁrst world war as ‘decomposition of movement’. In this
+paper, Holmes acknowledges his debt to ‘‘Babinski’s masterly
+analysis of the symptoms of cerebellar disease’’ (p. 463).
+Indeed, Babinski (1902) coined the term ‘adiadochokinesis’ to
+refer to the inability to execute rapidly alternating movements.
+He believed that the principal function of the cerebellum was
+to link together simpler movements that make up compound
+movements ( Babinski, 1899, 1906 ).
+In the Tenth Hughlings Jackson Memorial Lecture delivered
+in December 1938, Holmes (1939) began by pointing out that in
+the 16 years since his 1922 Croonian lecture ‘‘numerous clin-
+ical observations have been published and an enormous
+amount of experimental work has been devoted to the cere-
+bellum, but the conclusions drawn from them are so discor-
+dant that it seems wiser to omit reference to them when
+possible’’ (p. 1). His own conclusions were interesting in that
+he dismissed the idea that the cerebellum contained a special
+centre for co-ordination of movement. Rather, he argued that:‘‘.in addition to regulating postural tone, the cerebellum
+reinforces or tunes up the cerebral motor apparatus,
+including subcortical structures with motor functions, so
+that they respond promptly to volitional stimuli and the
+impulses from them which excite muscular contractions
+are properly graded.
+In his classical contributions to the physiology of the
+cerebellum Luciani (1891) described as the three symptoms
+of cerebellar defect: atonia [loss of muscle tone], astasia
+[tremor, oscillation, inco-ordination] and asthenia
+[muscular weakness]. These three symptoms occur in man
+as a result of acute cerebellar lesions and by them the
+irregularities of movement which constitute cerebellar
+ataxia can be fully explained’’ (p. 29).
+In the years following publication of the Hughlings Jackson
+memorial lecture, research on the cerebellum moved apace.
+Giuseppe Moruzzi and his colleagues demonstrated inhibitory
+cerebellar inﬂuences on other parts of the brain, and partic-
+ularly on the autonomic system ( Moruzzi, 1947 ). Sir Charles
+Sherrington’s dictum that the cerebellum is the ‘‘head
+ganglion of the proprioceptive system’’ ( Sherrington, 1906 )
+emphasised that normal posture and movement requires
+abundant proprioceptive input. Snider (1967) similarly
+considered the cerebellum to be a regulator of sensory input,
+while Brindley (1964) suggested that skills such as playing the
+piano are ﬁrst learned consciously under cortical control but
+with time and practice the cerebellum comes to control the
+actions subconsciously or automatically.
+Marr (1969) , well-known for his later contribution to the
+study of vision, proposed that the cerebellum was important
+both for learning movements and actions and for learning to
+maintain balance and posture. Albus (1971) developed
+a mathematical theory of cerebellar function independently of
+Marr but saw it as an extension and modiﬁcation of the latter’s
+theory. Albus regarded the cerebellum as being a site of motor
+memory. De Schutter and Maex (1996) pointed out that along
+with the ‘‘dogma’’ that the cerebellum is exclusively involved
+in motor control, another has been that it is the site of memory
+storage for motor learning as proposed by Marr and Albus,
+a view De Schutter and Maex (1996) themselves rejected.
+In reviewing non-motor functions of the cerebellum (as
+revealed very largely by research on animals) Watson (1978)
+concluded: ‘‘A large amount of evidence underscores the
+insufﬁciency of strictly postural and motor control concepts.’’
+He noted that through its connections with the forebrain,
+reticular and limbic system structures, ‘‘The cerebellum may
+contribute to sensory processing, learning, performance,
+emotion, motivation and reward’’ (p. 960). Watson made no
+mention of what we would consider cognition but a decade
+later Leiner et al. (1989) reviewed ﬁndings on the human
+cerebellum which led them to reject the view that this struc-
+ture is exclusively involved in motor control (see also Leiner
+et al., 1986 ). Instead they referred to ‘‘the cognitive cere-
+bellum’’. They argued that the cerebellum is involved in
+cognitive functions by virtue of the extensive connections
+between it(especially the lateral cerebellar structures) and
+frontal and prefrontal areas of the cortex. According to Leiner
+et al. (1989) cerebellar connections to prefrontal cortex enable
+the cerebellum to ‘‘improve’’ mental skills, connections tocortex 46 (2010) 811–820 812Broca’s area enable it to ‘‘improve’’ language skills and
+connections to motor cortex enable the cerebellum to
+‘‘improve’’ motor skills.
+From time to time the view had been expressed prior to
+publication of the paper by Leiner et al. (1989) that the cere-
+bellum was involved in cognitive functions (e.g., Gowers, 1888 )
+but usually dismissed (e.g., Andre ´-Thomas, 1912 ). Controversy
+over the role of the cerebellum, what it does and how it does it,
+has characterised cerebellar research since at least the nine-
+teenth century and has continued to do so. Weisenburg (1927)
+began his paper with the words ‘‘Perhaps there is no subject in
+neurology today about which there is more controversy than
+the function of the cerebellum’’. Almost 50 years later in an
+attempt to extend the diversity of possible lesion locations in
+foreign accent syndrome beyond the supratentorial brain
+regions, Cole (1971) discussed two patients in whom the
+causative lesion was situated in the posterior fossa. Robert
+Joynt, former editor-in-chief of Neurology , commented on this
+unexpected ﬁnding: ‘‘ .it doesn’t appear unusual that any of
+the brain mechanisms which are used to integrate motor acts
+may alter force, prosody, and rhythm of speech. It is well that
+Dr. Cole has pointed this out with posterior fossa lesions’’ (p.
+153). However, he ironically added: ‘‘( .) I am enough of
+a romanticist to think that these subtle inﬂections and
+nuances of speech must ultimately stem from the cerebral
+cortex. For example, if Juliet had said in a monotone, ‘‘Romeo,
+Romeo, wherefore art thou, Romeo?’’ I doubt if Romeo would
+have done himself in for her. But then, I don’t think Shake-
+speare wrote for the cerebellum.’’ (p. 153).
+A quarter of a century later, the role of the cerebellum in
+non-motor functions was still being questioned. The April
+26th, 1996 issue of Science has an introductory article entitled
+‘‘The Cerebellum: Movement coordinator or much more?’’.
+Ten years after that an invited commentary ( Glickstein, 2006 )
+on a paper in Brain (Ravizza et al., 2006 ) appears under the
+heading ‘‘The Cerebellum – motor control or more?’’ while
+Glickstein (2007) asks the rhetorical question ‘‘What does the
+cerebellum really do?’’ In these papers Glickstein takes issue
+with the emerging view that the cerebellum has a role to play
+in cognitive and linguistic functions.
+In some ways it is not surprising that there remains
+controversy regarding the role of the cerebellum in cognitive
+functions. It is a relatively small structure at the bottom of the
+brain that seems to hide under the occipital lobes as if unwilling
+to assume a more prominent position in the cranial cavity. Yet
+the cerebellum contains at least as many neurones than the
+much larger cerebrum under which it lies. As Glickstein (1993)
+put it, ‘‘The cerebellar hemispheres have more cells than the
+cerebral cortex. What on earth do they do?’’ (p. 451).
+In a much cited paper, Schmahmann and Sherman (1998)
+studied 20 patients with disease conﬁned to the cerebellum,
+concluding that there is a constellation of deﬁcits which they
+termed the ‘‘cerebellar cognitive affective syndrome’’ char-
+acterised by disturbances of executive, linguistic, spatial and
+affective function. Not all deﬁcits occurred in each case but
+certain symptoms were particularly prominent. Decreased
+verbal ﬂuency was said to be present in 18 patients and visuo-
+spatial ‘‘disintegration’’ in 19 cases. However, the authors
+pointed out that ‘‘it is impossible on the basis of these cases to
+distinguish the contribution of the lesioned cerebellum tothese abnormal behaviours from that of the cerebral regions
+newly deprived of their connections with the cerebellum.
+Furthermore, (.) disruption of behaviour by cerebellar lesions
+is, to some extent, transient’’ (p. 576).
+In an earlier paper reviewing cognitive, psychiatric and
+other aspects of research on the cerebellum, Schmahmann
+(1991) suggested that ‘‘The overshoot and inability in the
+motor system to check parameters of movement may ( .)b e
+equated, in the cognitive realm, with a mismatch between
+reality and perceived reality, and erratic attempts to correct
+the errors of thought or behavior. Hence, perhaps, dysmetria
+of thought’’ (p. 1183).
+As with other cerebral structures (see Thach, 1996 ), claims
+that the cerebellum has a role to play in cognition or linguistic
+function derive from three main strands of research: ﬁrst, the
+effect of cerebral lesions, second functional neuroimaging
+studies and third, neuroanatomical considerations. To these
+might be added investigations of developmental abnormalities
+of the cerebellum (for general critique and review of cerebellar
+research in relation to cognition see Stein and Glickstein, 1992;
+Thach et al., 1992; Leiner et al., 1993; Daum and Ackermann,
+1995; Thach, 1996; Paquier and Marie ¨n, 2005; Timmann and
+Daum, 2007; Strick et al., 2009 ). Special issues of Trends in
+Cognitive Science (Volume 2, issue 9, 1998) and the companion
+volume Trends in Neurosciences (Volume 21, issue 9, 1998) as well
+as Volume 13, issues 2–3 (2006) of the Journal of Neurolinguistics
+and Volume 59, issue 4 (2007) of Folia Phoniatrica et Logopaedica
+are devoted to the cerebellum. March 2002 saw the ﬁrst issue of
+The Cerebellum , a quarterly journal devoted to the science of the
+cerebellum and its role in ataxia and other disorders. For
+a review speciﬁcally of executive function in relation to the
+cerebellum see Bellebaum and Daum (2007) and for spatial
+processing and the cerebellum see Molinari and Leggio (2007) .
+Reviews of the role of the cerebellum in language functions are
+provided byGordon (1996) ,Marie ¨n et al. (2001b) ,Paquier and
+Marie ¨n (2005), De Smet et al. (2007b) , and Murdoch (2010, this
+issue) . For brief review of history of anatomical research see
+Glickstein, Strata and Voogd (2009) .
+Glickstein (2006, 2007; Glickstein and Doron, 2008 ) is one of
+the most sceptical opponents of the view that the cerebellum
+is involved in cognition (for an explicitly contrary opinion to
+that of Glickstein see Strick et al., 2009 ). The main thrusts of
+his arguments are that evaluation of the effects of cerebral
+lesions is difﬁcult since ‘‘Lesions of the cerebellum may not
+occur in isolation. Traumatic, vascular, developmental
+anomalies and tumours typically cause damage to brain
+structures outside of the cerebellum and treatments associ-
+ated with cerebellar resection, such as chemotherapy and
+radiation, may themselves produce cognitive deﬁcits’’ (p. 288).
+With regard to neuroimaging research, Glickstein (2007; see
+also Glickstein and Doron, 2008 ) suggests activation of cere-
+bellar areas may be related to actual or planned movement of
+the eyes, vocal apparatus or ﬁngers rather than to cognition,
+a view buttressed by the fact that neuroanatomical connec-
+tions between cerebellum and cortex largely involve areas
+concerned with eye movements as opposed to areas known to
+be involved in cognition.
+Seventy years on from publication of Holmes’s (1939)
+landmark paper we are pleased to have the opportunity to
+bring together for readers of this journal a collection of reviewcortex 46 (2010) 811–820 813articles and reports devoted to current research carried out in
+to the functions of the cerebellum, together with the associ-
+ated controversies. One of us (AB) is not directly concerned
+with cerebellar research but was drawn to consider its func-
+tions by an interest in dyslexia and the hypothesis ( Fawcett
+and Nicolson, 1992; Nicolson et al., 1995, 2001; Nicolson and
+Fawcett, 2007 ) that a cerebellar deﬁcit is at the root of this
+developmental condition (for critiques see Beaton, 2002,
+2004a; Vlachos et al., 2007 ; see also Bishop, 2002 ). In addi-
+tion, this co-editor among others ( Peters, 1995; Snyder et al.,
+1995; McManus and Cornish, 1997; Ja ¨ncke et al., 1999 ) has
+suggested that the phenomenon of handedness is intimately
+associated with the functions of the cerebellum ( Beaton, 2003,
+2004b ), a view lent credence perhaps by the ﬁnding that
+cerebellar damage results in impairment of skilful move-
+ments of the ﬁngers ( Glickstein et al., 2005 ). In addition, left
+and right hands differ in terms of their ‘‘steadiness’’ ( Simon,
+1964; Annett et al., 1979 ), or lack of extraneous movement in
+performing ﬁne motor tasks, and in the degree to which each
+is associated with cerebellar activation ( Ja¨ncke et al., 1999 ).
+Furthermore, cerebellar volume is related to measures of ﬁne
+motor dexterity ( Paradiso et al., 1997 ). The second co-editor
+(PM) has been much more intimately involved in research on
+the cerebellum for a number of years ( Baillieux et al., 2006,
+2007; De Smet et al., 2007a, 2007b, 2009; Marie ¨n et al., 1996,
+2000, 2001a, 2001b, 2006, 2007, 2009; Marie ¨n and Verhoeven,
+2007; Paquier and Marie ¨n, 2005 ).
+As we see it, there are three main issues relating to the
+question ‘‘Does the cerebellum contribute to cognitive and
+linguistic functions and, if so, how?’’
+1. Does the cerebellum have a single modus
+vivendi or does it operate in a multiplicity of
+ways?
+A number of authors have proposed that the cerebellum
+operates according to some single principle or is dedicated to
+a relatively restricted set of functions. Bloedel (1992) was
+struck by the functional heterogeneity of the cerebellum in
+the face of its structural homogeneity. According to Bloedel,
+‘‘cerebellar function involves a characteristic operation that is
+performed across its various components. ( .) this operation
+includes integrating sensory information about execution
+space, the target, peripheral inputs, and the body scheme with
+inputs reﬂecting the properties of the movement being
+executed. Although the fundamental characteristics of this
+operation are likely to be similar across the subdivisions of the
+cerebellum, the organization of cerebellar afferent and
+efferent systems will result in differences in the behavioral
+consequences of the processing in various cerebellar regions.
+This heterogeneity reﬂects the multiple systems with which
+the cerebellum interacts rather than a multiplicity of func-
+tional operations within the cerebellum itself’’ (p. 678).
+As noted above, Snider (1967) thought the role of the
+cerebellum is to modulate sensory input. More recently, Gao
+et al. (1996) suggested that the cerebellum is specialised
+more for acquisition of sensory data than for movement per
+se. They argued that ‘‘cerebellar deﬁcits in voluntary move-
+ment, such as incoordination and ataxia, may reﬂectdisruption of the sensory data (from the medial cerebellum-
+controlled muscle spindle system) on which the motor
+system depends, rather than disruption of cerebellar compu-
+tations of smooth motor performance per se’’ (p. 547).
+The concept of ‘‘‘control augmentation’, based on the
+computer action of cerebellar circuits’’ was proposed by Ito
+(1986) . He regarded the cerebellum ( Ito, 1990 ) as ‘‘an organ
+dedicated to endow adaptive control abilities to all kinds of
+bodily functions, through reﬂexes to voluntary movement to
+mental activity’’ (p. 569) and pointed out that ‘‘Dysmetria can
+be regarded as impairment of predictive control, for which
+a computer is indispensable. Incoordination may be related to
+multivariable control in which plural inputs and outputs are
+manipulated at the same time’’ (p. 564). Through a process of
+error learning the cerebellum develops and updates internal
+models of the dynamics of body parts which allow perfor-
+mance of precise movements without the need to refer to
+feedback from the moving part. This applies to manipulation
+of mental representations of the cerebral cortex as much as to
+adaptive control of motor activity ( Ito, 1993, 2008 ). This kind of
+view has much in common with others that see the cere-
+bellum as essentially a predictive device ( Miall et al., 1993;
+Courchesne and Allen, 1997 ).
+One role for the cerebellum that has been emphasised, in
+particular by Ivry and his colleagues, is that of timing ( Ivry and
+Keele, 1989; Ivry, 1993; Ivry and Fiez, 2000 ). A problem in
+timing the temporal relation between antagonist muscles
+would explain the dysmetria and adiadochokinesia that is
+seen following cerebellar damage although ‘‘The timing
+functions of the cerebellum are not limited to motor control’’
+(Ivry et al., 2002 , p. 304).
+Raymond et al. (1996) agreed with Marr (1969) and Albus
+(1971) that ‘‘the idea that the cerebellum is a primary site of
+motor learning ( .) is one of the most appealing hypotheses of
+cerebellar function’’. On the basis of similarity of neural
+mechanisms used in eye-blink conditioning and learning in
+relation to the vestibulo-ocular reﬂex (VOR), both of which are
+cerebellum-dependent, they suggested that the cerebellum is
+a ‘‘neuronal learning machine’’. Such learning is seen, for
+example, in prism adaptation experiments. Raymond et al.
+(1996) suggest that the neural mechanisms used in these
+two behaviours may ‘‘represent general principles that apply
+to all forms of cerebellum-dependent learning, including
+motor learning in saccadic eye movements and reaching arm
+movements’’ (p. 130).
+Schmahmann (2004) argues that ‘‘because cerebellar
+anatomy is essentially uniform throughout the structure, the
+basic work that the cerebellum does in the nervous system
+should be constant as well. This we have referred to as the
+universal cerebellar transform, characterized as the cerebellar
+modulation of behaviour, serving as an oscillation dampener
+maintaining function automatically around a homeostatic
+baseline and smoothing out performance in all domains’’
+(p. 374–5).
+One way in which the cerebellum might inﬂuence different
+cognitive functions in brain damaged patients is through the
+inﬂuence of diaschisis. A number of studies have shown that
+damage to the cerebellum can lead to reduced metabolic
+activity in the contralateral cerebral hemisphere (see e.g.,
+Botez et al., 1990; So ¨nmezoglu et al., 1993; Marie ¨n et al., 1996 )cortex 46 (2010) 811–820 814and elsewhere due, perhaps, to the loss of excitatory cere-
+bellar input to thalamus and forebrain structures, that is, to
+a reverse cerebellar diaschisis ( Anderson et al., 1988 ). The
+opposite effect can also occur (diminished activity in the
+contralateral cerebellum as a result of a cerebral infarction) as
+found, for example, in studies by Baron et al. (1981), Broich
+et al. (1987), Marie ¨n et al. (2006) and Marie ¨n and Verhoeven
+(2007) .
+Crossed cerebellar diaschisis was not seen in three cases
+with lesions restricted to the parieto-occipital region in a PET
+study by Martin and Raichle (1983) although they noted that
+cerebellar hypometabolism was a general ﬁnding in their
+patients with cerebral infarction. Cerebellar asymmetry of
+metabolism was seen in every one of their patients with
+frontal lobe lesions, the side of lowest metabolism being
+contralateral to the cerebral lesion in all six cases. In another
+study of 43 patients ( Metter et al., 1987 ) crossed cerebellar
+diaschisis was found to occur in all eight cases of Broca’s
+aphasia. The level of motor disability (functioning of arm and
+leg) in cases where there was a cerebellar asymmetry in
+glucose metabolism was greater than when there was no such
+asymmetry.
+Even in the absence of brain damage there may be a close
+correspondence between activity in certain areas of one
+cerebral hemisphere and activity in the opposite cerebellar
+hemisphere. In a PET study carried out with young normal
+adults to address this possibility a signiﬁcant inverse corre-
+lation was found between relative left–right asymmetry of
+glucose metabolism in frontal cortex and relative asymmetry
+of activation in the cerebellum ( Junck et al., 1988 ).
+It seems to us self-evident that the putative role of the
+cerebellum as applied to cognitive functions cannot be
+considered in isolation from concurrent supratentorial
+activity. Indeed, the concept of a functionally ‘‘lateralised’’
+cognitive ( Allin et al., 2001; Gottwald et al., 2004; Hokkanen
+et al., 2006 ) and linguistic cerebellum ( Marie ¨n et al., 2001b ;
+Jansen et al., 2005; Stoodley and Schmahmann, 2009a ), which
+is becoming increasingly accepted by researchers, is predi-
+cated upon the importance of the crossed connections
+between cerebellum and cerebral cortex.
+2. Extent of movement artefact in fMRI
+studies (and how interpreted)
+One problem in interpreting the results of fMRI studies is that
+rarely does one have full experimental control over what
+a participant is thinking. Decety et al. (1990) showed that the
+cerebellum is activated along with the frontal cortex when
+subjects merely imagine making tennis movements or count
+silently. These authors suggested that the cerebellum there-
+fore ‘‘participates in pure mental activity’’ and ‘‘may be
+involved in motor programming which precedes motor acts’’
+(p. 316). (They also suggested that it possibly plays a role in the
+temporal organisation of neural events related to cognition).
+Similarly, instructions to participants simply to imagine
+producing speech are sufﬁcient to induce activation in the
+cerebellum ( Ackermann et al., 1998 ). Since experimental
+protocols require participants at some point to initiate anovert spoken or manual act, merely thinking of it can intro-
+duce the possibility of unwanted activation.
+It has been argued by some that language deﬁcits seen in
+patients with cerebellar disease or injury concern purely the
+motor aspects of speech although it is difﬁcult to conceive of
+what motor deﬁcits could produce symptoms such as anomia
+(Akshoomoff et al., 1992 ) or agrammatism that have been
+reported. For example, Silveri et al. (1994) described the case of
+a man who sustained a right cerebellar infarct. This patient
+was said not to be aphasic in his native Italian language, nor to
+show any syntactic defect; rather he exhibited an impairment
+in the use of uninﬂected verbs and in the use of clitics
+amounting to an agrammatism. Similarly, Marie ¨n et al. (1996 ,
+2000) described the case of a patient with an ischaemic
+infarction in the vascular territory of the right superior cere-
+bellar artery who developed aphasic symptoms, including
+‘‘full-blown agrammatism’’.
+A patient with right cerebellar damage reported by Fiez
+et al. (1992) was asked to generate a verb in response to
+a visually presented noun. He tended to provide an unusually
+high number of non-verb responses (e.g., ‘‘sharp’’ in response
+to ‘‘razor’’ where control subjects gave ‘‘shave’’) without
+realising that his responses were in any way abnormal (but
+seeRichter et al., 2004 ). He produced a large number of errors
+on other word generation tasks, namely synonym, category
+and attribute generation. The patient was impaired at select-
+ing a synonym from two alternatives and in almost all tasks
+he failed to show the normal improvement with practice seen
+in the control subjects. It is difﬁcult to see how this pattern of
+results can be brought about by purely motor impairment.
+Conversely, the (right lateral inferior) cerebellum has been
+shown to be active in response to participants being asked to
+generate a verb to a given noun after subtraction of a repeti-
+tion condition in which the noun was repeated (see Petersen
+and Fiez, 1993 ).Leiner et al. (1993) argued that such ﬁndings
+demonstrate that the cerebellum cannot have a purely motor
+function, as traditionally thought, but participates in cognitive
+operations.
+Nor is it easy to conceive how motor deﬁcits can explain
+impaired cognitive associative learning in cerebellar patients
+(see Timmann et al., 2002, 2004 ) although slowed or inefﬁcient
+motor function arguably might contribute to impairment on
+certain attentional (see e.g., Gottwald et al., 2003 ) or visuo-
+spatial tasks (see e.g., Bracke-Tolkmitt et al., 1989;
+Akshoomoff et al., 1992; Molinari and Leggio, 2007 ). Of
+course, a strict differentiation between cognitive and motor
+functions cannot be sustained ( Bloedel, 1993 ). Most action or
+movement is made in the service of some end and in relation
+to an existing cognitive framework.
+3. Localisation within the cerebellum
+The ﬁrst serious attempt at localisation within the cerebellum
+was apparently that of Bolk (1906) who concluded that there
+was some degree of functional localisation in motor control
+(see also Manni and Petrosini, 2004 ).Holmes (1917) discussed
+the question of localisation of function but came to no deﬁnite
+conclusion: ‘‘But though my observations lend no support to
+the theory of focal localisation of function in the cerebellarcortex 46 (2010) 811–820 815cortex they cannot be accepted as proof that such localization
+does not exist’’ (p. 534).
+On the basis of studies of over 50 patients with cerebellar
+lesions Weisenburg (1927 ; see also Mills and Weisenburg,
+1914 ) came down ﬁrmly in favour of localisation. He
+concluded: ‘‘In the vermis are represented the synergic
+activities of the trunk; in the superior vermis the movements
+of the shoulder–girdle or the upper trunk; in the inferior ver-
+mis the pelvic–girdle or lower trunk. Synergic control of the
+limbs is in the lateral hemispheres, for the upper limbs in the
+superior portion, for the lower in the inferior’’ (p. 376).
+In their classic papers describing the results of ablation and
+stimulation in the cat, Chambers and Sprague (1955a, 1955b)
+argued that the cerebellum is longitudinally organised into
+two functional zones. The medial zone consists of the vermal
+cortex and fastigial nuclei; the intermediate zone of paravermal
+cortex and interpositus nuclei. They pointed out that the attri-
+butes of each zone correspond to the categories of motor func-
+tion known as pyramidal and extra-pyramidal respectively.
+This ‘‘zonal’’ characterisation of the functions of the cerebellum
+stood in contrast to the concept of ‘‘lobular’’ organisation.
+Schmahmann (2004, 2007) argued from clinical investiga-
+tions that while the anterior lobe of the cerebellum is largely
+concerned with motor control, the cerebellar vermis is
+involved in emotional processing and the posterior lobe in
+cognitive processing. More recently, Stoodley and
+Schmahmann (2009b) carried out a meta-analysis of pub-
+lished neuroimaging studies in healthy participants (see also
+Schoch et al., 2006 for a large scale study). Their results sug-
+gested that sensori-motor tasks engaged lobule 5 (along with
+V1 and VIII) of the anterior lobe and that ‘‘language, working
+memory and spatial processing were largely localized to
+lobules V1, Crus 1 and Crus 11. Emotional processing included
+a midline peak in lobule V11At, and hemispheric activation
+peaks in lobules V1 and Crus 1. Executive functions showed
+a distributed pattern, and included bilateral regions in lobule
+V1, Crus 1, and V11B’’ (p. 496).
+The question of a possible involvement of the cerebellum
+in cognitive and affective processes has been overshadowed
+for more than a century by research interest in the motor role
+of the cerebellum. However, recent advances in elucidating
+the neuroanatomical connections of the cerebellum with the
+supratentorial regions that subserve cognition, combined
+with evidence from functional neuroimaging, neurophysio-
+logical and neuropsychological research, have extended the
+view of the cerebellum from that of a simple co-ordinator of
+autonomic and somatic motor function. Yet despite the
+considerable effort currently devoted to investigating non-
+motor functions of the cerebellum we do not understand the
+precise nature of these functions. To do so will require
+continued investigation of the anatomy and physiology of this
+structure, together with behavioural and clinical studies of the
+effects of cerebellar lesions in patients and theoretically
+driven experimental and neuroimaging investigations with
+healthy volunteers. Each of these different methodologies and
+approaches is represented in the papers included in this
+special issue. As well as providing new data, the collection of
+papers includes a number of review articles which we believe
+will be of interest to readers of Cortex , especially those for
+whom this area of research is relatively unfamiliar.In the ﬁrst paper of the special issue Cantalupo and
+Hopkins (2010, this issue) place the development of the
+human cerebellum within a comparative and evolutionary
+framework. They point out that great apes show relatively
+greater size of the cerebellum, especially of the lateral neo-
+cerebellum known to be involved in planning of reaching
+and visually guided movements, than do monkeys. Cantalupo
+and Hopkins (2010, this issue) present data relating cerebellar
+size and asymmetry in the chimpanzee to evolutionarily
+signiﬁcant behaviours, namely tool use and aimed throwing,
+and show that handedness (or armedness) for throwing is
+related to asymmetry in volume of the cerebellum.
+In the next paper, Stoodley and Schmahmann (2010, this
+issue) analyse anatomical, functional neuroimaging, and
+clinical data to test the hypothesis of a topographic organi-
+sation of the human cerebellum. Evidence is presented that
+supports a regional organisation of motor, cognitive, and
+limbic behaviours. The authors consider this functional
+topography of the cerebellum to be a consequence of the
+differential arrangement of connections of the cerebellum
+with the spinal cord, brainstem, and cerebral hemispheres,
+reﬂecting cerebellar incorporation into the distributed neural
+circuits subserving movement, cognition, and emotion.
+Timmann et al. (2010, this issue) compare the results of
+human cerebellar lesion studies investigating associative
+learning in the motor, emotional and cognitive domain. The
+authors show that such studies provide evidence for a role of
+the cerebellum in motor, emotional and cognitive associative
+learning. Given its simple and homogeneous micro-circuitry,
+the authors hypothesise that a common computation may
+underly cerebellar involvement in these different forms of
+associative learning and that the overall task of the cere-
+bellum may be to provide correct predictions about the rela-
+tionship between sensory stimuli.
+In his paper Murdoch (2010, this issue) critically reviews
+the neuroanatomical, clinical and functional neuroimaging
+evidence suggestive of a crucial role for the cerebellum in
+various aspects of language processing. The possible neuro-
+pathophysiological substrates of language impairment asso-
+ciated with cerebellar pathology are discussed and the nature
+of the linguistic deﬁcits associated with disease or damage to
+the cerebellum are described.
+Baillieux et al. (2010, this issue) explore the neuro-
+psychological deﬁcits seen in a group of 18 patients with
+vascular ( n¼13) and neoplastic ( n¼5) lesions of the cere-
+bellum. They report ﬁnding a wide range of deﬁcits in language,
+attention, executive function and memory which they relate to
+lateralised modulation of cognitive functions through the
+mechanism of crossed cerebello-cerebral diaschisis.
+The interaction between the cerebellum and the neo-cortex
+in regard to executive function and working memory is
+explored in the contribution by Marvel and Desmond (2010, this
+issue) . Their fMRI ﬁndings add to existing data that suggest
+a functional and anatomical dissociation between dorsal
+(motor) and ventral (cognitive) regions within the dentate
+nucleus. Durisko and Fiez (2010, this issue) also examine
+working memory using fMRI, distinguishing between regions of
+the cerebellum involved in overt and covert speech tasks on the
+one hand and verbal working memory tasks on the other. These
+two papers indicate the complexity of the problem thatcortex 46 (2010) 811–820 816confronts us in attempting to understand how different cere-
+bellar regions contribute to performance on different experi-
+mental tasks.
+To investigate the inﬂuence of structural anomalies on
+cognitive, linguistic and emotional development, Tavano and
+Borgatti (2010, this issue) compared the neurobehavioural
+proﬁles of children with Joubert syndrome and children with
+malformationsconﬁned to the cerebellar vermisand one or both
+cerebellar hemispheres. The overall evidence provides support
+for an important role of cerebellar structures per se in shaping
+emotional, cognitive and linguistic development, when vermian
+lesions are associated with cerebellar hemispheric lesions.
+Lesions restricted to cerebellar vermis and brainstem, by
+comparison, appear to have a major impact on motor-related
+skills, includingoro-motor abilities and verbal working memory.
+On the basis of a comparative study, Davis et al. (2010, this
+issue) show that children who receive treatment early in life
+for a cerebellar tumour are likely to suffer adverse development
+of both cognitive and motor ability. Type of tumour/treatment
+and age at diagnosis were found to be the most reliable
+predictors of subsequent outcome. Catsman-Berrevoets and
+Aarsen (2010, this issue) analysed the spectrum of behavioural
+abnormalities, speech and language characteristics in a cohort
+of 41 children with the posterior fossa syndrome following
+cerebellar tumour surgery. During recovery all children were
+dysarthric, but only a few patients presented speech features
+speciﬁc to cerebellar dysarthria. A signiﬁcant correlation was
+found between duration of mutism and severity of neurological
+symptoms. Signiﬁcant correlations were also found between
+duration of mutism and abnormalities on SPECT.
+It is clear from the papers in this special issue that the role of
+the cerebellum remains something of an enigma and there is
+much yet to learn. The Belgian artist Igor Verpoorten hints at
+this in the artwork on the cover of this special issue, evoking
+a dark-sided, cerebellar part of the brain, the functions of which
+remain to be fully elucidated. It is our hope that the papers we
+have gathered together will not only stimulate further research
+into the role of this mysterious organ but help to reﬁne the
+experimental approaches and methodological controls
+required to do so. Unfortunately, not all the individuals we
+contacted were able to accept our invitation to contribute within
+the time frame available, given their other commitments, but
+we trust that, likeus, they would have been pleased to havebeen
+associated with the ﬁnal collection of papers we have assem-
+bled. These include not only the papers in the current issue but
+a number of review papers. The latter cover functional local-
+isation in the cerebellum ( Glickstein et al., in press ), cognitive
+repercussions of hereditary cerebellar disorders ( Manto and
+Lorivel, in press ), the cerebellum and dyslexia ( Stoodley and
+Stein, in press ), developmental disorders more generally
+(Nicolson and Fawcett, in press ), cerebellar involvement in
+associative learning ( Bellebaum and Daum, in press ), and the
+sequencing hypothesis of cerebellar function ( Leggio et al., in
+press ). The review papers will appear in the January 2011 issue
+ofCortex , and will provide a forum for discussion.
+We wish again to thank all our invited contributors for
+their manuscripts and for bearing patiently with us in the
+sometimes protracted matter of editing and revising their
+papers. We also wish to thank our long suffering referees
+without whom we could not have produced this special issue.As often happens, referees did not always agree with each
+other, nor we with them, and we were sometimes obliged to
+steer a middle course between competing opinions. We hope
+that in so doing we have not unduly offended any academic
+sensibilities. Finally, we wish to express our gratitude to the
+editorial assistants at the Cortex ofﬁce, Mrs. Cheryl Phillips,
+Mr. Oliver Stewart and Dr. Laura Valkonen who willingly gave
+of their time and expertise in many ways, not least in helping
+us to navigate (with a greater or lesser degree of success) the
+vagaries of the on-line submission system!
+references
+Ackermann H, Wildgruber D, Daum I, and Grodd W. Does the
+cerebellum contribute to cognitive aspects of speech
+production? A functional magnetic resonance imaging (fMRI)
+study in humans. Neuroscience Letters , 247: 187–190, 1998.
+Akshoomoff NA, Courchesne E, Press GA, and Iragui V.
+Contribution of the cerebellum to neuropsychological
+functioning: Evidence from a case of cerebellar degenerative
+disorder. Neuropsychologia , 30: 315–328, 1992.
+Albus JA. Theory of cerebellar function. Mathematical Biosciences ,
+10: 25–61, 1971.
+Allin M, Matsumoto H, Santhouse AM, Nosarti C, Alasady MH,
+Stexard AL, et al. Cognitive and motor functions and the size
+of the cerebellum in adolescents born very pre-term. Brain ,
+124: 60–66, 2001.
+Anderson NE, Posner JB, Sidtis JJ, Moeller JR, Strother SC,
+Dhawan V, et al. The metabolic anatomy of paraneoplastic
+cerebellar degeneration. Annals of Neurology , 23: 533–540, 1988.
+Andre ´-Thomas J. Cerebellar Functions [Herring WC, Trans.]. In
+Journal of Nervous and Mental Diseases Monograph Series 12.
+New York: Journal of Nervous and Mental Diseases Publishing
+Company, 1912.
+Annett J, Annett M, Hudson PT, and Turner A. The control of
+movement in the preferred and non-preferred hands. The
+Quarterly Journal of Experimental Psychology , 31: 641–652, 1979.
+Babinski J. De l’asynergie ce ´re´belleuse. Revue Neurologique ,
+7: 806–816, 1899.
+Babinski J. Asynergie et inertie cerebelleuse. Revue Neurologique ,
+14: 685–686, 1906.
+Babinski J. Sur le ro ˆle du cervelet dans les actes volitonnels
+ne´cessitant une succession rapide de mouvements-
+diadococine ´sie.Revue Neurologique , 10: 1013–1015, 1902.
+Baillieux H, De Smet HJ, Dobbeleir A, Paquier PF, De Deyn PP, and
+Marie ¨n P. Cognitive and affective disturbances following focal
+cerebellar damage in adults: A neuropsychological and SPECT
+study. Cortex , 46(7): 869–879, 2010.
+Baillieux H, De Smet HJ, Lesage G, Paquier P, De Deyn PP, and
+Marie ¨n P. Neurobehavioral alterations in an adolescent
+following posterior fossa tumor resection. The Cerebellum ,
+5: 289–295, 2006.
+Baillieux H, Weyns F, Paquier P, De Deyn PP, and Marie ¨n P. Posterior
+fossa syndrome after a vermian stroke: A new case and review
+of the literature. Pediatric Neurosurgery , 43: 386–395, 2007.
+Baron JC, Bousser MG, Comar D, and Castaigne P. ‘‘Crossed
+cerebellar diaschisis’’ in human supratentorial brain
+infarction. Transactions of the American Neurological Association ,
+105: 459–461, 1981.
+Beaton AA. Dyslexia and the cerebellar deﬁcit hypothesis. Cortex ,
+38: 479–490, 2002.
+Beaton AA. The determinants of handedness. In Hugdahl K and
+Davidson RJ (Eds), Brain Asymmetry . 2nd ed. Cambridge MA:
+MIT Press, 2003: 105–158.cortex 46 (2010) 811–820 817Beaton AA. Dyslexia, Reading and the Brain: A Sourcebook of Biological
+and Psychological Research . Hove: Psychology Press, 2004a.
+Beaton AA. Anatomy of manual skill. Cortex , 40: 228–229, 2004b.
+Bellebaum C and Daum I. Cerebellar involvement in executive
+control. The Cerebellum , 6: 184–192, 2007.
+Bellebaum C and Daum I. Mechanisms of cerebellar involvement
+in associative learning. Cortex , in press.
+Bishop DV. Cerebellar abnormalities in developmental dyslexia:
+Cause, correlate or consequence? Cortex , 38: 491–498, 2002.
+Bloedel JR. Functional heterogeneity: How does the cerebellum
+operate? Behavioral and Brain Sciences , 15: 666–678, 1992.
+Bloedel JR. ‘Involvement in’ versus ‘Storage of’. Trends in
+Neurological Science , 16: 451–452, 1993.
+Bolk L. Das Cerebellum der Saugetiere . Jena: Fisher, 1906.
+Botez MI, Botez TH, Leveille J, and Lambert R. Cerebello-cerebral
+diaschisis and the role of the cerebellum. Neurology , 40: 173, 1990.
+Bracke-Tolkmitt R, Linden A, Canavan AGM, Rockstroh B,
+Scholz E, Wessel K, et al. The cerebellum contributes to
+mental skills. Behavioral Neuroscience , 103: 442–446, 1989.
+Brindley GS. The use made by the cerebellum of the information
+that it receives from the sense organs. International Brain
+Research Organization , 3: 80, 1964.
+Broich K, Hartman A, Biersack H, and Horn R. Crossed cerebello-
+cerebral diaschisis in a patient with cerebellar infarction.
+Neuroscience Letters , 83: 7–12, 1987.
+Cantalupo C and Hopkins W. The cerebellum and its contribution
+to complex tasks in higher primates: A comparative
+perspective. Cortex , 46(7): 821–830, 2010.
+Catsman-Berrevoets CE and Aarsen FK. The spectrum of
+neurobehavioural deﬁcits in the Posterior Fossa Syndrome in
+children after cerebellar tumour surgery. Cortex , 46(7): 933–946,
+2010.
+Chambers WW and Sprague JM. Functional localization in the
+cerebellum. I. Organization in longitudinal cortico-nuclear
+zones and their contribution to the control of posture, both
+extrapyramidal and pyramidal. The Journal of Comparative
+Neurology , 103: 105–129, 1955a.
+Chambers WW and Sprague JM. Functional localization in the
+cerebellum. II. Somatotopic organization in cortex and nuclei.
+AMA Archives of Neurology and Psychiatry , 74: 653–680, 1955b.
+Cole M. Dysprosody due to posterior fossa lesions. Transactions
+of the American Neurological Association , 96: 151–154, 1971.
+Courchesne E and Allen G. Prediction and preparation, fundamental
+functions of the cerebellum. Learning & Memory , 4: 1–35, 1997.
+Daum I and Ackermann H. Cerebellar contribution to cognition.
+Behavioral Brain Research , 67: 201–210, 1995.
+Davis EE, Pitchford NJ, Jaspan T, McArthur D, and Walker D.
+Development of cognitive and motor function following
+cerebellar tumour injury sustained in early childhood.
+Cortex , 46(7): 919–932, 2010.
+Decety J, Sjoholm H, Ryding E, Stenberg G, and Ingvar DH. The
+cerebellum participates in mental activity: Tomographic
+measurements of regional cerebral blood ﬂow. Brain Research ,
+535: 313–317, 1990.
+De Schutter E and Maex R. The cerebellum: Cortical
+processing and theory. Current Opinion in Neurobiology ,
+6: 759–764, 1996.
+De Smet HJ, Baillieux H, Catsman-Berrevoets C, De Deyn PP,
+Marie ¨n P, and Paquier PF. Postoperative motor speech
+production in children with the syndrome of ‘cerebellar’
+mutism and subsequent dysarthria: A critical review. European
+Journal of Paediatric Neurology , 11: 193–207, 2007a.
+De Smet HJ, Baillieux H, De Deyn PP, Marie ¨nP,and Paquier PF.
+The cerebellum and language: The story so far. Folia Phoniatrica
+et Logopaedica , 59: 165–170, 2007b.
+De Smet HJ, Baillieux H, Wackenier P, De Praeter A, Engelborghs S,
+Paquier PF, et al. Long-term cognitive deﬁcits following
+posterior fossa tumour resection: A follow-upneuropsychological and functional neuroimaging study.
+Neuropsychology , 23: 694–704, 2009.
+Durisko C and Fiez JA. Functional activation in the cerebellum
+during working memory and simple speech tasks. Cortex ,
+46(7): 896–906, 2010.
+Fawcett AJ and Nicolson RI. Automatisation deﬁcits in balance for
+dyslexic children. Perceptual and Motor Skills , 75: 507–529, 1992.
+Fiez JA, Petersen SE, Cheney MK, and Raichle ME. Impaired non-
+motor learning and error detection associated with cerebellar
+damage. Brain , 115: 155–178, 1992.
+Flourens P. Phrenology Examined. Translated from the Second
+Edition of 1844, by Charles de Lucena Meigs. Philadelphia:
+Hogan & Thompson, 1846.
+Flourens P. Recherches Experimentales sur les Proprie ´te´se tl e s
+Functions du Systeme Nerveux dans les Animaux Vertebre ´s.
+Paris: Crevot, 1824.
+Gall FJ, Vimont J, and Broussais JV. On the Functions of the
+Cerebellum . Translated from the French by George Combe.
+Edinburgh: Maclachlan & Stewart, 1838.
+Gao JH, Parsons LM, Bower JM, Xiong JH, Li JQ, and Fox PT.
+Cerebellum implicated in sensory acquisition and
+discrimination rather than motor control. Science , 272:
+545–547, 1996.
+Glickstein M. Motor skills but not cognitive tasks. Trends in
+Neurosciences , 11: 450–451, 1993.
+Glickstein M. Thinking about the cerebellum. Brain , 129: 288–290,
+2006.
+Glickstein M. What does the cerebellum really do? Current Biology ,
+17: 824–827, 2007.
+Glickstein M and Doron K. Cerebellum: Connections and
+functions. The Cerebellum , 7: 589–594, 2008.
+Glickstein M, Waller J, Baizer JS, Brown B, and Timmann D.
+Cerebellum lesions and ﬁnger use. The Cerebellum ,4 :18 9 – 19 7 ,2 00 5 .
+Glickstein M, Strata P, and Voogd J. Review: Cerebellum: History.
+Neuroscience , 162: 549–559, 2009.
+Glickstein M, Sultan F, and Voogd J. Functional localization in the
+cerebellum. Cortex , in press.
+Gordon N. Speech, language, and the cerebellum. International
+Journal of Disorders of Communication , 31: 359–367, 1996.
+Gottwald B, Mihajlovic Z, Wilde B, and Mehdorn HM. Does the
+cerebellum contribute to speciﬁc aspects of attention?
+Neuropsychologia , 41: 1452–1460, 2003.
+Gottwald B, Wilde B, Mihajlovic Z, and Mehdorn HM. Evidence for
+distinct cognitive deﬁcits after focal cerebellar lesions. Journal
+of Neurology, Neurosurgery and Psychiatry , 74: 1524–1531, 2004.
+Gowers WR. Brain and general functional diseases. In Gowers WR
+(Ed), Diseases of the Nervous System . Philadelphia: P. Blakiston
+and Son, 1888: 497.
+Hokkanen LSK, Kauranen V, Roine RO, Salonen O, and Kotila M.
+Subtle cognitive deﬁcits after cerebellar infarcts. European
+Journal of Neurology , 13: 161–170, 2006.
+Holmes G. The symptoms of acute cerebellar injuries due to
+gunshot injuries. Brain ,40:461–535, 1917.
+Holmes G. The Croonian lectures on the clinical symptoms of
+cerebellar disease and their interpretations. Lecture I–IV. The
+Lancet , ii: 1177–1182, 1132–1137, 1159–1165, 1111–1115, 1922.
+Holmes G. The cerebellum of man. Brain , 62: 1–30, 1939.
+Ito M. Neural systems controlling movements. Trends in
+Neurosciences , 9: 515–518, 1986.
+Ito M. A new physiological concept on cerebellum. Revue
+Neurologique , 146: 564–569, 1990.
+Ito M. Movement and thought: Identical control mechanisms by
+the cerebellum. Trends in Neurosciences , 16: 448–450, 1993.
+Ito M. Control of mental activities by internal models in the
+cerebellum. Nature Reviews. Neuroscience , 9: 304–313, 2008.
+Ivry R. Cerebellar involvement in the explicit representation of
+temporal information. Annals of the New York Academy of
+Sciences , 682: 214–230, 1993.cortex 46 (2010) 811–820 818Ivry RB and Fiez JA. Cerebellar contributions to cognition and
+imagery. In Gazzaniga M (Ed), The New Cognitive Neurosciences .
+2nd ed. Cambridge, MA: MIT Press, 2000: 999–1011.
+Ivry R and Keele SW. Timing functions of the cerebellum. Journal
+of Cognitive Neuroscience , 1: 136–152, 1989.
+Ivry R, Spencer RM, Zelaznik HN, and Diedrichsen J. The cerebellum
+and event timing. In Highstein SM and Thach WT (Eds), The
+Cerebellum: Recent Developments in Cerebellar Research , vol. 978.
+New York: New York Academy of Sciences, 2002: 302–317.
+Ja¨ncke L, Specht K, Mirzazade S, and Peters M. The effect of ﬁnger-
+movement speed of the dominant and the subdominant hand
+on cerebellar activation: A functional magnetic resonance
+imaging study. NeuroImage , 9: 497–507, 1999.
+Jansen A, Flo ¨el A, Van Randenborgh J, Konrad C, Rotte M,
+Fo¨rster AF, et al. Crossed cerebro-cerebellar language
+dominance. Human Brain Mapping , 24: 165–172, 2005.
+Junck L, Gilman S, Rothley JM, Betley AT, Koeppe RA, and
+Hichwa RD. A relationship between metabolism in frontal
+lobes and cerebellum in normal subjects studied with PET.
+Journal of Cerebral Blood Flow and Metabolism , 8: 774–782, 1988.
+Leggio MG, Chiricozzi FR, Clausi S, Tedesco AM, and Molinari M.
+The neuropsychological proﬁle of cerebellar damage: The
+sequencing hypothesis. Cortex , in press.
+Leiner HC, Leiner AL, and Dow RS. Does the cerebellum contribute
+to mental skills? Behavioral Neuroscience , 100: 443–454, 1986.
+Leiner HC, Leiner AL, and Dow RS. Reappraising the cerebellum:
+What does the hindbrain contribute to the forebrain?
+Behavioral Neuroscience , 103: 998–1008, 1989.
+Leiner HC, Leiner AL, and Dow RS. Cognitive and language
+functions of the human cerebellum. Trends in Neurosciences ,
+16: 444–447, 1993.
+Leuret F. Anatomie compare ´e du syste `me nerveux conside ´re´dans ses
+rapports avec l’intelligence , vol. 1. Paris: Baillie `re, 1839.
+Luciani L. Il cervelletto: nuovi studi di ﬁsiologia normale e patologica .
+Florence: Successori le Monnier, 1891.
+Manni E and Petrosini L. Luciani’s work on the cerebellum
+a century later. Trends in Neurosciences , 20: 112–116, 1997.
+Manni E and Petrosini L. A century of cerebellar somatotopy:
+A debated representation. Nature Reviews. Neuroscience ,5 :
+241–249, 2004.
+Manto M and Lorivel T. Cognitive repercussions of hereditary
+cerebellar disorders. Cortex , in press.
+Marie ¨n P, Baillieux H, De Smet HJ, Engelborghs S, Wilssens I,
+Paquier P, et al. Cognitive, linguistic and affective disturbances
+following a right superior cerebellar artery infarction: A case
+study. Cortex , 45: 527–536, 2009.
+Marie ¨n P, Engelborghs S, and De Deyn PP. Cerebellar
+neurocognition: A new avenue. Acta Neurologica Belgica ,
+101: 96–106, 2001a.
+Marie ¨n P, Engelborghs S, Fabbro F, and De Deyn PP. The
+lateralized linguistic cerebellum: A review and new
+hypothesis. Brain and Language ,79:580–600, 2001b.
+Marie ¨n P, Engelborghs S, Pickut B, and De Deyn PP. Aphasia
+following cerebellar damage: Fact or fallacy? Journal of
+Neurolinguistics , 13: 145–171, 2000.
+Marie ¨n P, Saerens J, Nanhoe R, Moens E, Nagels G, Pickut B,
+et al. Cerebellar induced aphasia: Case report of cerebellar
+induced prefrontal aphasic language phenomena
+supported by SPECT ﬁndings. Journal of the Neurological
+Sciences , 144: 34–43, 1996.
+Marie ¨n P and Verhoeven J. Cerebellar involvement in motor
+speech planning: Some further evidence from foreign accent
+syndrome. Folia Phoniatrica et Logopaedica , 59: 210–217, 2007.
+Marie ¨n P, Verhoeven J, Brouns R, De Witte L, Dobbeleir A, and
+De Deyn PP. Apraxic agraphia following a right cerebellar
+hemorrhage. Neurology , 69: 926–929, 2007.
+Marie ¨n P, Verhoeven J, Engelborghs S, Rooker S, Pickut BA, and
+De Deyn PP. A role for the cerebellum in motor speechplanning: Evidence from foreign accent syndrome. Clinical
+Neurology and Neurosurgery , 208: 518–522, 2006.
+Marr D. A theory of cerebellar cortex. The Journal of Physiology ,
+202: 437–470, 1969.
+Martin WRW and Raichle ME. Cerebellar blood ﬂow and
+metabolism in cerebral hemisphere infarction. Annals of
+Neurology , 14: 168–176, 1983.
+Marvel CL and Desmond JE. The contributions of cerebro-cerebellar
+circuitry to executive verbal working memory. Cortex , 46(7):
+880–895, 2010.
+McManus IC and Cornish KM. Commentary. Fractionating
+handedness in mental retardation: What is the role of the
+cerebellum? Laterality , 2: 81–90, 1997.
+Metter EJ, Kempler D, Jackson CA, Hanson WR, Riege WH,
+Camras LR, et al. Cerebellar glucose metabolism in chronic
+aphasia. Neurology , 37: 1599–1606, 1987.
+Miall RC, Weir DJ, Wolpert DM, and Stein JF. Is the cerebellum
+a Smith Predictor? Journal of Motor Behavior , 25: 203–216, 1993.
+Mills CK and Weisenburg TH. Cerebellar symptoms and cerebellar
+localization. JAMA: The Journal of the American Medical
+Association , 63: 1813–1818, 1914.
+Molinari M and Leggio MG. Cerebellar information processing and
+visuospatial functions. The Cerebellum , 6: 214–220, 2007.
+Moruzzi G. Sham rage and localized autonomic responses elicited
+by cerebellar stimulation in the acute thalamic cat. Proceedings
+of the XVII International Congress of Physiology (Oxford) , 1947:
+114–115.
+Murdoch BE. The cerebellum and language: Historical perspective
+and review. Cortex , 46(7): 858–868, 2010.
+Nicolson RI and Fawcett AJ. Procedural learning difﬁculties:
+Reuniting developmental disorders? Trends in Neurosciences ,
+30: 135–141, 2007.
+Nicolson RI and Fawcett AJ. Developmental disorders, procedural
+learning and the cerebellum: A neural systems approach.
+Cortex , in press.
+Nicolson RI, Fawcett AJ, and Dean P. Time estimation deﬁcits in
+developmental dyslexia: Evidence for cerebellar involvement.
+Proceedings of the Royal Society: Biological Sciences , 259: 43–47,
+1995.
+Nicolson RI, Fawcett AJ, and Dean P. Developmental dyslexia: The
+cerebellar deﬁcit hypothesis. Trends in Neurosciences , 24:
+514–516, 2001.
+Paquier PF and Marie ¨nP. A synthesis of the role of the cerebellum
+in cognition. Aphasiology , 19: 3–19, 2005.
+Paradiso S, Andreasen NC, O’Leary DS, Arndt S, and Robinson R.
+Cerebellar size and cognition: Correlations with IQ, verbal
+memory and motor dexterity. Neuropsychiatry, Neuropsychology
+and Behavioral Neurology , 1: 1–8, 1997.
+Peters M. Handedness and its relation to other indices of cerebral
+lateralization. In Davidson RJ and Hugdahl K (Eds), Brain
+Asymmetry . Cambridge, MA: MIT Press, 1995: 183–214.
+Petersen SE and Fiez JA. The processing of single words studied
+with positron emission tomography. Annual Review of
+Neuroscience , 16: 509–530, 1993.
+Ravizza SM, McCormick CA, Schlerf JE, Justus T, Ivry RB, and
+Fiez JA. Cerebellar damage produces selective deﬁcits in verbal
+working memory. Brain , 129: 306–320, 2006.
+Raymond JL, Lisberger SG, and Mauk MD. The cerebellum: A
+neuronal learning machine? Science , 272: 1126–1131, 1996.
+Richter S, Kaiser O, Hein-Kropp C, Dimitrova A, Gizewski E,
+Beck A, et al. Preserved verb generation in patients with
+cerebellar atrophy. Neuropsychologia , 42: 1235–1246, 2004.
+Rolando L. Saggio sopra la vera struttura del cervello dell’uomo e degli
+animali e sopra le funzioni del sistema nervosa . Sassari, Stamperı `a
+Da S.S.R.M. Privilegiata, 1809.
+Schmahmann JD. An emerging concept: The cerebellar
+contribution to higher function. Archives of Neurology , 48:
+1178–1187, 1991.cortex 46 (2010) 811–820 819Schmahmann JD. Disorders of the cerebellum: Ataxia, dysmetria
+of thought, and the cognitive affective syndrome. The Journal of
+Neuropsychiatry and Clinical Neurosciences , 16: 367–378, 2004.
+Schmahmann JD. The primary motor cerebellum is in the
+anterior lobe but not the posterior lobe. Evidence from stroke
+patients. Neurology , 68: A357, 2007.
+Schmahmann JD and Caplan D. Cognition, emotion and the
+cerebellum. Brain , 129: 290–292, 2006.
+Schmahmann JD and Sherman JC. The cerebellar cognitive
+affective syndrome. Brain , 121: 561–579, 1998.
+Schoch B, Dimitrova A, Gizewski ER, and Timmann D. Functional
+localization in the human cerebellum based on voxelwise
+statistical analysis: A study of 90 patients. NeuroImage ,
+30: 36–51, 2006.
+Sherrington SC. The Integrative Action of the Nervous System .
+New York: Charles Scr ibner’s Sons, 1906.
+Silveri MC, Leggio MG, and Molinari M. The cerebellum contributes
+to linguistic production: A case of agrammatic speech following
+a right cerebellar lesion. Neurology , 44: 2047–2050, 1994.
+Simon JR. Steadiness, handedness, and hand preference.
+Perceptual and Motor Skills , 18: 203–206, 1964.
+Snider RS. Functional alterations of cerebral sensory areas by the
+cerebellum. Progress in Brain Research , 25: 322–333, 1967.
+Snyder PJ, Bilder RM, Wu H, Bogerts B, and Lieberman JA.
+Cerebellar volume asymmetries are related to handedness:
+A quantitative MRI study. Neuropsychologia , 33: 407–419, 1995.
+So¨nmezoglu K, Sperling B, Henriksen T, Tfelt-Hansen P, and
+Lassen NA. Reduced contralateral hemispheric ﬂow measured
+by SPECT in cerebellar lesions: Crossed cerebral diaschisis.
+Acta Neurologica Scandinavica , 87: 275–280, 1993.
+Stein JF and Glickstein M. Role of the cerebellum in visual guidance
+of movement. Physiological Reviews , 72: 967–1017, 1992.
+Stoodley CJ and Schmahmann JD. The cerebellum and language:
+Evidence from patients with cerebellar degeneration. Brain and
+Language , 110: 149–153, 2009a.
+Stoodley CJ and Schmahmann JD. Functional topography in the
+human cerebellum: A meta-analysis of neuroimaging studies.
+NeuroImage , 44: 489–501, 2009b.
+Stoodley CJ and Schmahmann JD. Evidence for topographic
+organization in the cerebellum of motor controlversus cognitive and affective processing. Cortex , 46(7):
+831–844, 2010.
+Stoodley CJ and Stein JF. The cerebellum and dyslexia. Cortex ,
+in press.
+Strick PL, Dum RP, and Fiez JA. Cerebellum and nonmotor
+function. Annual Review of Neuroscience , 32: 413–434, 2009.
+Tavano A and Borgatti R. Evidence for a link among cognition,
+language and emotion in cerebellar malformations. Cortex , 46(7):
+907–918, 2010.
+Tesak J and Code C. Milestones in the History of Aphasia. Theories
+and Protagonists . Hove: Psychology Press, 2008.
+Thach WT, Goodkin HP, and Keating JG. The cerebellum and
+the adaptive coordination of movement. Annual Review
+of Neuroscience , 15: 403–442, 1992.
+Thach WT. On the speciﬁc role of the cerebellum in motor
+learning and cognition: Clues from PET activation and lesion
+studies in man. Behavioral and Brain Sciences , 19: 411–431, 1996.
+Timmann D and Daum I. Cerebellar contributions to cognitive
+functions: A progress report after two decades of research.
+The Cerebellum , 6: 159–162, 2007.
+Timmann D, Drepper J, Calabrese S, Bu ¨rgerhoff K, Maschke M,
+Kolb FP, et al. Use of sequence information in associative
+learni ngin control subjects and cerebellar patients. The
+Cerebellum , 3: 75–82, 2004.
+Timmann D, Drepper J, Frings M, Maschke M, Richter S,
+Gerwig M, et al. The human cerebellum contributes to
+motor, emotional and cognitive associative learning. A
+review. Cortex , 46(7): 845–857, 2010.
+Timmann D, Drepper J, Maschke M, Kolb FP, Boring D,
+Thilmann AF, et al. Motor deﬁcits cannot explain impaired
+cognitive associative learning in cerebellar patients.
+Neuropsychologia , 40: 788–800, 2002.
+Vlachos F, Papathanasiou I, and Andreou G. Cerebellum and
+reading. Folia Phoniatrica et Logopaedica , 59: 177–183, 2007.
+Walshe FMR. The signiﬁcance of the voluntary element in the
+genesis of cerebellar ataxy. Brain , 50: 377–390, 1927.
+Watson PJ. Nonmotor functions of the cerebellum. Psychological
+Bulletin , 85: 944–967, 1978.
+Weisenburg TH. Cerebellar localization and its symptomatology.
+Brain , 50: 357–377, 1927.cortex 46 (2010) 811–820 820
