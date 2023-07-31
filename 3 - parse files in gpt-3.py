@@ -3,8 +3,7 @@ import os
 import glob
 
 def api_openai(input,out_file):
-    openai.api_key='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'
-    #openai.api_key = os.getenv("OPENAI_KEY")
+    openai.api_key = os.getenv("OPENAI_API_KEY")
     engine_list = openai.Engine.list() 
     response = openai.Completion.create(
         model="text-davinci-003",
