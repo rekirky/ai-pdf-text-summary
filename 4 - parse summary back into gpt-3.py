@@ -21,8 +21,8 @@ def api_openai(input,out_file):
         conversation(f"{result}")
         
 def conversation(text):
-    out_file = f"chat_conversation.txt"
-    with open(out_file,'a',encoding='utf-8',errors='ignore') as file:
+    out_file = f"processed_output.txt"
+    with open(out_file,'a') as file:
         file.write(f"{text}")
     
 def find_matching_files():
@@ -41,23 +41,24 @@ def remove_conversations():
     except:
         return
 
+
 def main():
     count = 1
     file_list = find_matching_files()      
-    prompt = f"of a {len(file_list)} page document. I need you to summarise this in less than 100 words.The target audience are PHD students who understand techincal and complicated techniques Please start each respons with the part number I just gave you"
-    remove_conversations()
+    prompt = f"I am going to provide text from a document that has been summarised by parts. I require you to conduct an overall summary of the text. This summary is for PHD students and should be written as a summary of text that can be reviewed as part of a study aide."
+    #remove_conversations()
     
     for i in range(len(file_list)):
-        with open(file_list[i], 'r',encoding='utf-8', errors='ignore') as file:
+        with open('chat_conversation.txt', 'r',errors='ignore') as file:
             lines = file.readlines()
-        api_openai(f"I am passing in part {count}. {prompt}-{lines}",True)
+        api_openai(f"{prompt}\n{lines}",True)
         count+=1
             
     #cleanup output
-    with open('chat_conversation.txt', 'r', encoding='utf-8',errors='ignore') as file:
+    with open('processed_output.txt', 'r', errors='ignore') as file:
         lines = file.readlines()
     lines = [line.strip() for line in lines if line.strip()]
-    with open('chat_conversation.txt', 'w', encoding='utf-8',errors='ignore') as file:
+    with open('processed_output.txt', 'w', encoding='utf-8') as file:
         file.write('\n'.join(lines))
 
 main()
