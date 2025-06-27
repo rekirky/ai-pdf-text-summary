@@ -74,7 +74,7 @@ def api_openai(input):
 ################################# 
 def conversation(text,out_file):
         with open(out_file,'a',encoding='utf-8',errors='ignore') as file:
-            file.write(f"{text}")
+            file.write(f"{text}\n")
     
 #################################    
 def find_matching_files():
@@ -103,7 +103,7 @@ def api_first():
     
     for i in range(len(file_list)):
         with open(file_list[i], 'r',encoding='utf-8', errors='ignore') as file:
-            lines = file.readlines()
+            lines = file.read()
         text = api_openai(f"I am passing in part {count}. {prompt}-{lines}")
         conversation(text,"chat_conversation.txt")
         count+=1
@@ -120,7 +120,7 @@ def api_second():
     prompt = f"I am going to provide text from a document that has been summarised by parts. I require you to conduct an overall summary of the text. This summary is for PHD students and should be written as a summary of text that can be reviewed as part of a study aide."
       
     with open('chat_conversation.txt', 'r',errors='ignore') as file:
-        lines = file.readlines()
+        lines = file.read()
     text = api_openai(f"{prompt}\n{lines}")
     conversation(text,"document_summary.txt")
       
